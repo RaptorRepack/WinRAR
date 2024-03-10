@@ -1,8 +1,8 @@
 ## 📝 Read The Notes
 
-- WinRAR Project Folder Name  Is "WinRAR".
+- WinRAR Project Folder Name  Is WinRAR.
 
-- WinRAR All Data Found On RARLab Server.
+- WinRAR All Data Found On RARLab Servers.
 
 - If You Interested To My Repack Then Install This WinRAR.
 
