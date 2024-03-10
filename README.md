@@ -29,3 +29,5 @@
 #### [Download Now WinRAR](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/WinRAR_v6.24.0.0_x64.exe)
 
 ## ⚙️ Changelog
+
+#### [What's New](https://github.com/RaptorRepack/WinRAR/releases/tag/v6.24)
