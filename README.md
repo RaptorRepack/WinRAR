@@ -32,3 +32,6 @@
 
 #### [What's New](https://github.com/RaptorRepack/WinRAR/releases/tag/v6.24)
 
+## 🌐 Social Media
+
+#### [Twitter Page](https://twitter.com/raptorrepack) || [YouTube Channel](https://youtube.com/@RaptorRepack)
