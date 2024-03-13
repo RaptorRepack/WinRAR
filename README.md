@@ -13,24 +13,36 @@
 ## 🧾 Product Informations
 
 - Product Name: WinRAR
-- Product Versions: v6.24.0.0
+- Product Versions: v7.0.0.0
 - Product Build Stage: Stable
-- Product Activation Status: Pre-Activated
+- Product Activation Status: Unlimited Licensed 
 - Product OS Support: Windows 11
 - Product OS Build Version: 23H2
 - Product Architecture: 64bit
-- Product Install Space Size: 8.72 MB
+- Product Install Space Size: 1.xx MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Software Copyright: © Raptor Repack 2024 Co.Inc
 
 ## ⬇️ Direct Download Now
 
-#### [Download Now WinRAR](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/WinRAR_v6.24.0.0_x64.exe)
+#### [Very Soon...](https://github.com/RaptorRepack/WinRAR)
 
 ## ⚙️ Changelog
 
-#### [What's New](https://github.com/RaptorRepack/WinRAR/releases/tag/v6.24)
+#### [Very Soon...](https://github.com/RaptorRepack/WinRAR)
+
+## 📢 Upcoming Update
+
+#### WinRAR v7.0.0.0 Stable
+
+## 📥 [WinRAR v6.24.0.0 Stable](https://github.com/RaptorRepack/WinRAR/releases/tag/v6.24)
+
+## 📝 Important Notes
+
+#### 🔴 WinRAR v7.0.0.0 Stable Version Are Repacking Development Process Started.
+
+#### 🔴 WinRAR v7.0.0.0 Based On HyperEngine Patch And Unlimited Licensed Available In The Installer Package.
 
 ## 🌐 Social Media
 
