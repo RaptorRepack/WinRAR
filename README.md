@@ -36,7 +36,9 @@
 
 #### WinRAR v7.0.0.0 Stable
 
-## 📥 [WinRAR v6.24.0.0 Stable](https://github.com/RaptorRepack/WinRAR/releases/tag/v6.24)
+## 📥 Older Versions
+
+#### [WinRAR v6.24.0.0 Stable](https://github.com/RaptorRepack/WinRAR/releases/tag/v6.24)
 
 ## 📝 Important Notes
 
