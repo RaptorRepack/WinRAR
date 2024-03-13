@@ -19,22 +19,22 @@
 - Product OS Support: Windows 11
 - Product OS Build Version: 23H2
 - Product Architecture: 64bit
-- Product Install Space Size: 1.xx MB
+- Product Install Space Size: 19.83 MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Software Copyright: © Raptor Repack 2024 Co.Inc
 
 ## ⬇️ Direct Download Now
 
-#### [Very Soon...](https://github.com/RaptorRepack/WinRAR)
+#### [Download Now WinRAR]([https://github.com/RaptorRepack/WinRAR](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/WinRAR_v7.0.0.0.exe)
 
 ## ⚙️ Changelog
 
-#### [Very Soon...](https://github.com/RaptorRepack/WinRAR)
+#### [What's New]([https://github.com/RaptorRepack/WinRAR](https://github.com/RaptorRepack/WinRAR/releases/tag/v7.0.0)
 
 ## 📢 Upcoming Update
 
-#### WinRAR v7.0.0.0 Stable
+#### No Official Information
 
 ## 📥 Older Versions
 
@@ -42,9 +42,7 @@
 
 ## 📝 Important Notes
 
-#### 🔴 WinRAR v7.0.0.0 Stable Version Are Repacking Development Process Started.
-
-#### 🔴 WinRAR v7.0.0.0 Based On HyperEngine Patch And Unlimited Licensed Available In The Installer Package.
+#### 🔴 WinRAR v7.0.0.0 Stable Released.
 
 ## 🌐 Social Media
 
