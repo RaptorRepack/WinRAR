@@ -2,11 +2,11 @@
 
 - WinRAR Project Folder Name  Is WinRAR.
 
-- WinRAR All Data Found On RARLab Servers.
+- WinRAR Software All Data Found On RARLab Servers.
 
-- If You Interested To My Repack Then Install This WinRAR.
+- If You Interested To My Repack Then Install This WinRAR Software.
 
-- This Software All Data Available Only For My GitHub Page or RARLab Webpage.
+- This WinRAR Software All Data Available Only For My GitHub Page or RARLab Webpage.
 
 - WinRAR Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
 
@@ -42,7 +42,9 @@
 
 ## 📝 Important Notes
 
-#### 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The WinRAR Installation Setup File.
+#### 🔴 Highly recommended For Windows 11 23H2 Pro Edition To Use This WinRAR Software.
+
+#### 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The WinRAR Software Installation Setup File.
 
 ## 🌐 Social Media
 
