@@ -42,7 +42,7 @@
 
 ## 📝 Important Notes
 
-#### 🔴 WinRAR v7.0.0.0 Stable Released.
+#### 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The WinRAR Installation Setup File.
 
 ## 🌐 Social Media
 
