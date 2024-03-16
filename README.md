@@ -6,7 +6,7 @@
 
 - If You Interested To My Repack Then Install This WinRAR.
 
-- This Software Fully Open Source Software And This Software All Data Available For My GitHub Page Only.
+- This Software All Data Available For My GitHub Page or RARLab Webpage Only.
 
 - WinRAR Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
 
