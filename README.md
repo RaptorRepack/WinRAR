@@ -15,7 +15,7 @@
 - Product Name: WinRAR
 - Product Versions: v7.0.0.0
 - Product Build Stage: Stable
-- Product Activation Status: Unlimited Licensed 
+- Product Activation: Unlimited Licensed 
 - Product OS Support: Windows 11
 - Product OS Build Version: 23H2
 - Product Architecture: 64bit
