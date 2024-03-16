@@ -8,7 +8,7 @@
 
 - This WinRAR Software All Data Available Only For My GitHub Page or RARLab Webpage.
 
-- WinRAR Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
+- WinRAR Software Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
 
 ## 🧾 Product Informations
 
