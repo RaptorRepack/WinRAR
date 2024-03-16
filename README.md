@@ -1,6 +1,6 @@
 ## 📝 Read The Notes
 
-- WinRAR Project Folder Name  Is WinRAR.
+- WinRAR Software Project Folder Name  Is WinRAR.
 
 - WinRAR Software All Data Found On RARLab Servers.
 
