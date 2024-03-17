@@ -12,17 +12,17 @@
 
 ### 📑 Product Informations
 
-##### • Product Name: WinRAR
-##### • Product Versions: v7.0.0.0
-##### • Product Build Stage: Stable
-##### • Product Activation: Unlimited Licensed 
-##### • Product OS Support: Windows 11
-##### • Product OS Build Version: 23H2
-##### • Product Architecture: 64bit
-##### • Product Install Space Size: 19.83 MB
-##### • Product Designer: Raptor Repack
-##### • Product Developer: Raptor Repack
-##### • Software Copyright: © Raptor Repack 2024 Co.Inc
+- Product Name: WinRAR
+- Product Versions: v7.0.0.0
+- Product Build Stage: Stable
+- Product Activation: Unlimited Licensed 
+- Product OS Support: Windows 11
+- Product OS Build Version: 23H2
+- Product Architecture: 64bit
+- Product Install Space Size: 19.83 MB
+- Product Designer: Raptor Repack
+- Product Developer: Raptor Repack
+- Software Copyright: © Raptor Repack 2024 Co.Inc
 
 ### ⬇️ Direct Download Now ⬇️
 
