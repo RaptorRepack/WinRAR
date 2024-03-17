@@ -30,7 +30,7 @@
 
 ### ⚙️ Changelog
 
-#### [What's 🆕](https://github.com/RaptorRepack/WinRAR/releases/tag/v7.0.0)
+#### [💎 What's New](https://github.com/RaptorRepack/WinRAR/releases/tag/v7.0.0)
 
 ### 📢 Upcoming Update
 
