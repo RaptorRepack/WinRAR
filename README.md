@@ -26,11 +26,11 @@
 
 ### ⬇️ Direct Download Now
 
-## [*Download Now WinRAR*](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/WinRAR_v7.0.0.0.exe)
+## [*"Download Now WinRAR"*](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/WinRAR_v7.0.0.0.exe)
 
 ### ⚙️ Changelog
 
-## [*What's New*](https://github.com/RaptorRepack/WinRAR/releases/tag/v7.0.0)
+## [*"What's New"*](https://github.com/RaptorRepack/WinRAR/releases/tag/v7.0.0)
 
 ### 📢 Upcoming Update
 
