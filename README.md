@@ -1,4 +1,4 @@
-# 📝 Read The Notes
+### 📝 Read The Notes
 
 ##### • WinRAR Software Project Folder Name  Is WinRAR.
 
@@ -30,7 +30,7 @@
 
 ### ⚙️ Changelog
 
-## [What's New](https://github.com/RaptorRepack/WinRAR/releases/tag/v7.0.0)
+#### [What's New](https://github.com/RaptorRepack/WinRAR/releases/tag/v7.0.0)
 
 ### 📢 Upcoming Update
 
