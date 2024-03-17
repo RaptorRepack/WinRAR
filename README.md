@@ -34,9 +34,9 @@
 
 ### 📢 Upcoming Update
 
-##### ❌ No Official Information
+##### 🪧 No Official Information
 
-### 📤 Older Versions
+### 📦 Older Versions
 
 #### 📥 [WinRAR v6.24.0.0 Stable](https://github.com/RaptorRepack/WinRAR/releases/tag/v6.24)
 
