@@ -4,7 +4,7 @@
 
 • WinRAR Software All Data Found On RARLab Servers.
 
-• If You Interested To My Repack Then Install This WinRAR Software.
+• If You Interested To My Repack Then Install This WinRAR Repack Software.
 
 • This WinRAR Software All Data Available Only For My GitHub Page or RARLab Webpage.
 
